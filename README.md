@@ -18,23 +18,14 @@
 # 📊 Estadisticas:
 <table><tr><td valign="top" width="80%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Titi24Pehuajo&theme=vue&hide_border=true&include_all_commits=true&count_private=false" align="left" style="width: 95%" />
+ 
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Titi24Pehuajo&show_icons=true&theme=cobalt)
+ 
+ 
 
-
-
-<!--
-**Titi24Pehuajo/Titi24Pehuajo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</table>
+ 
+   <p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=bstar098&show_icons=true&locale=en&layout=compact" alt="bstar098" /></p>
+ 
 
   
