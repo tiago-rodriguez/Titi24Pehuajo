@@ -19,7 +19,7 @@
  
 ![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Titi24Pehuajo&show_icons=true&theme=cobalt)
  
- 
+
 
 </table>
  
