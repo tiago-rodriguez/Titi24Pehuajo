@@ -9,6 +9,7 @@
     nuevos caminos y asi desarrollar nuevas formas de resolver problemas. </h3>
 </div>
 
+
 <div id=" header"  aling="center" > 
     <h3 aling="center">  👋 Hello!!
       I am a passionate full-stack Developer from Argentina. I am enthusiastic about constantly learning new technologies to explore new paths and develop innovative ways to solve problems. </h3>
