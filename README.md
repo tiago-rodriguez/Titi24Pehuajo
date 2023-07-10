@@ -14,8 +14,6 @@
       I am a passionate full-stack Developer from Argentina. I am enthusiastic about constantly learning new technologies to explore new paths and develop innovative ways to solve problems. </h3>
 </div>
 
-
-
 ## 🌐 Contacto:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-rodriguez/)
 
